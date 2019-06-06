@@ -36,7 +36,7 @@ Projects must be formally proposed via GitHub. Project proposals submitted to th
 
 ### Project Acceptance Process
 * Projects are required to present their proposal at a TAC meeting
-* The TAC may ask for changes to bring the project into better alignment with the OpenJS Foundation (adding a governance document to a repository or adopting a Code of Conduct, for example).
+* The TAC may ask for changes to bring the project into better alignment with the Urban Computing Foundation (adding a governance document to a repository or adopting a Code of Conduct, for example).
  * The project will need to make these changes in order to progress further.
 * Projects are accepted via a 2/3 supermajority vote of the TAC.
 * The proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
