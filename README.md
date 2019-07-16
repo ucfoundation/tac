@@ -1,10 +1,14 @@
 # Urban Computing TAC
 
-## Calendar
+## Communication
+
+A growing list of communication methods and tools to support the Urban Computing Foundation.
+
+### Calendar
 
 A public google calendar is [here](https://calendar.google.com/calendar/embed?src=u14oiv0c9rh7nv93jke7ehgr68%40group.calendar.google.com&ctz=America%2FChicago).
 
-## Meeting Minutes
+### Meeting Minutes
 
 The meeting minutes are [here](https://docs.google.com/document/d/1ScXoO3urg-iOB26OSvz4VjMR2SNVLd-aA8yhgvvq8Bs/edit#).
 
