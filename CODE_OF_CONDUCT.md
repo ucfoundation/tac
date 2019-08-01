@@ -75,3 +75,6 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
 
+## Events Code of Conduct
+
+Official UCF events are governed by the Linux Foundation Code of Conduct available on the event page. The Events Code of Conduct supports the above policy and also includes more details on responding to incidents.
