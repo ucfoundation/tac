@@ -23,6 +23,8 @@ The name Map3 refers to the 3rd generation of maps and also the map for the Web3
 - Map 2.0, Open Map: **Map data** produced by global communities. Examples include OSM and other open geospatial dataset. There are many open source map systems and protocols released by companies like Mapbox and Mapzen. Some startup open map companies provide their **map service** based on open map data but the majority market is still dominated by the big companies. 
 - Map 3.0, Consensus Map: A decentralized map network fully built, shared and governed by the communities. Map3 does not concern with how **map data** are generated but instead with how **map data** are shared and the corresponding values are transferred. **Map service** will be provided in p2p manner by the pervasive and powerful edge devices. It will be the community to provide the resources, share the derived value and govern the technological transition of the Map3 network. 
 
+![Map Chronology](https://docs.google.com/drawings/d/e/2PACX-1vT5CzwMBUYJTcm0oRazc2_L_ADZsWqSUh_xLwXogfmV_HRAGqZtykRnvKeoJEOpXCtO-pYHSUpgSr1h/pub?w=1046&h=742)
+
 # statement on alignment with Foundation charter's mission
 The foundation charter's mission
 
@@ -36,17 +38,17 @@ In addition to the aforementioned merits, Map3 has the potential to become an es
 # link to *current* Code of Conduct (if one is adopted already)
 https://www.map3.network/docs/code-of-conduct
 # sponsor from TAC, if identified (a sponsor helps mentor projects)
-No for now. Hope to discuss with the TAC in depth on this.
+No for now. Would love to get in contact with mentors sharing the vision.
 # project license
 Apache License 2.0 
 # source control (GitHub by default)
-Github
+Github https://github.com/hyperion-hyn/map3
 # issue tracker (GitHub by default)
 Github
 # external dependencies (including licenses)
 N/A
 # release methodology and mechanics
-Plan to follow the release methodology of AngularJS
+https://www.map3.network/docs/release
 
 https://github.com/angular/angular.js/blob/master/RELEASE.md
 # names of initial committers, if different from those submitting proposal
@@ -62,7 +64,8 @@ https://www.map3.network/docs/governance
 At large/Growth 
 
 # list of project's official communication channels (slack, irc, mailing lists)
-N/A for now. In planning 
+Join our mailing list at: https://groups.google.com/forum/#!forum/decentralizedmap3    
+
 
 # link to project's website 
 https://www.map3.network
@@ -76,4 +79,4 @@ Now the developers are primarily sponsored by the Hyperion Lab. We hope to attra
 # infrastructure needs or requests 
 - The open source project itself (tech architecture, code, media, culture, developers) 
 - Growth the ecosystem (nodes, map uses, map layers)
-- Provide general platform to help liaison with other projects like Let’s encrypt 
+- Together to broadcast to existing OSM and open map tech communities. 
