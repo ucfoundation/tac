@@ -2,6 +2,7 @@
 
 ## What We're Looking For
 We are looking for high-quality projects that improve all aspects of the general practice of "Urban Computing" for all software development, such as location intelligence, geospatial, infrastructure, and data visualization with a focus on connected cities. 
+
 We want to drive the innovation of urban computing, but make this available to everyone.
 
 ## Foundation Goals
@@ -47,8 +48,8 @@ look for best practices, guidance and documentation as well as tooling and proje
 their solutions should have to look no further than the resources provided by the UCF, regardless of their software stack, 
 platform or industry vertical.
 
-**Benefits**: The UCF should not be a "grab-bag" of projects, and projects do not need to be hosted in the CDF to interoperate with projects that are in the CDF. Projects in the CDF should either provide a unique benefit to the CDF or uniquely benefit from being in it.
+**Benefits**: The UCF should not be a "grab-bag" of projects, and projects do not need to be hosted in the UCF to interoperate with projects that are in the UCF. Projects in the UCF should either provide a unique benefit to the UCF or uniquely benefit from being in it.
 
 ## Revision History
-* Version 1.0: <dat>
-    * Approved by TAC on <date>
+* Version 1.0: {date}
+    * Approved by TAC on {date}
