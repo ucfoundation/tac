@@ -30,7 +30,7 @@ The TAC's mission is to enable developers, data scientists, visualization specia
 
 **Scalable**: City-Scale Simulation of Urban Systems, and Environments
 
-## Software That Enables Such Continuous Delivery
+## Software That Enables Such Urban Computing
 To help “practitioners to share and improve their practices,” the TAC upholds these values, and we seek projects that share them:
 
 **Pragmatic**: The most important attribute of a project is how useful it is to actual practitioners. Purity in design and implementation comes second to solving real-world problems for them.
