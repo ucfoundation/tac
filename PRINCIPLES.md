@@ -1,13 +1,15 @@
 # UCF TAC Principles v1.0
 
 ## What We're Looking For
-We are looking for high-quality projects that improve all aspects of the general practice of "Urban Computing" for all software development, such as location intelligence, geospatial, infrastructure, and data visualization with a focus on connected cities. 
 
-We want to drive the innovation of urban computing, but make this available to everyone.
+We are looking for high-quality projects that improve all aspects of the general practice of "Urban Commputing" for all software development. We want to drive the adoption, and utilization of urban computing technology, but make this available to everyone.
+
 
 ## Foundation Goals
 Copied from [the charter document](https://github.com/ucfoundation/charter/blob/master/CHARTER.md) as the starting point:
 
+1. believes in the power of Urban Computing to empower developers and teams in accelerating open source and community development that improves mobility, safety, road infrastructure, traffic congestion and energy consumption in connected cities;
+1. believes in the open source solutions collectively addressing the whole software delivery lifecycle;
 1. believes in the power of Urban Computing to empower developers and teams and to produce high quality software to bridge the divide between engineering, visualization, and traditional transportation systems analysis;
 1. believes in the open source solutions collectively addressing tools for developers building autonomous vehicles to smart infrastructure;
 1. fosters and sustains the ecosystem of open-source, vendor neutral projects through collaborations and interoperability; and
@@ -15,8 +17,18 @@ Copied from [the charter document](https://github.com/ucfoundation/charter/blob/
 
 
 ## Technical Vision of Urban Computing
-The Urban Computing Foundation’s mission is to enable developers, data scientists, visualization specialists and engineers to improve urban environments, human life quality, and city operation systems, and build connected urban 
-infrastructure. We do this through an open governance model that encourages participation and technical contribution, and by providing a framework for long term stewardship by companies and individuals invested in open urban computing’s success.
+
+The TAC's mission is to enable developers, data scientists, visualization specialists and engineers to improve urban environments, human life quality, and city operation systems.build connected urban infrastructure. We do this through an open governance model that encourages participation and technical contribution, and by providing a framework for long term stewardship by companies and individuals invested in open urban computing’s success.
+
+**Ubiquitous**: Unobtrusive and Ubiquitous Sensing Technologies
+
+**Analytics-ready**: Promote and achieve Advanced Data Management and Analytics Models
+
+**Visualization**: Develop and Enhance Novel Visualization Methods
+
+**Machine Learning**: Develop and Enhance Spacio-Temporal Machine Learning Techniques
+
+**Scalable**: City-Scale Simulation of Urban Systems, and Environments
 
 ## Software That Enables Such Continuous Delivery
 To help “practitioners to share and improve their practices,” the TAC upholds these values, and we seek projects that share them:
@@ -27,7 +39,8 @@ To help “practitioners to share and improve their practices,” the TAC uphold
 
 **Portable**: The choices we make for Urban Computing today may not make sense tomorrow. Users should be empowered to change their decisions with minimal friction.
 
-**Platform/stack agnostic**: Urban Computing applies to all location and geospatial intelligence tooling for smart cities and infrastructure, not just practitioners on a particular platform or stack. We have an overall goal to help them modernize, but adopting urban computing even on "legacy" stacks will help this modernization process go even faster.
+**Platform/stack agnostic**: Urban Computing applies to all pertinent technology, not just practitioners on a particular platform or stack. We have an overall goal to help them advance, promote and adopt Urban Computing technology even on "legacy" stacks will help modernization process go even faster.
+
 
 **Overall ecosystem fit**: Urban Computing is a broad space and no "one tool" can solve everything for everyone. Projects should fit into the broader ecosystem - whether through plugin-style extensibility,  explicit interface exposure/usage, or something else.
 
@@ -43,13 +56,14 @@ In order to “foster and sustain the ecosystem of open-source, vendor neutral p
 **Fairness**: A community that seeks to avoid undue influence, bad behaviours, and/or “pay-to-play” decision-making.
 
 ## Greater Whole
-The whole should be greater than the sum of all parts. A successful UCF should provide be a single place to 
-look for best practices, guidance and documentation as well as tooling and projects. Practitioners looking to improve 
-their solutions should have to look no further than the resources provided by the UCF, regardless of their software stack, 
-platform or industry vertical.
+
+The whole should be greater than the sum of all parts. A successful UCF should provide be a single place to look for best practices, guidance and documentation as well as tooling and projects. Practitioners looking to improve their delivery practices should have to look no further than the resources provided by the UCF, regardless of their software stack, platform or industry.
+
 
 **Benefits**: The UCF should not be a "grab-bag" of projects, and projects do not need to be hosted in the UCF to interoperate with projects that are in the UCF. Projects in the UCF should either provide a unique benefit to the UCF or uniquely benefit from being in it.
 
 ## Revision History
-* Version 1.0: {date}
-    * Approved by TAC on {date}
+
+* Version 1.0: {YYYY-mm-dd}
+    * Approved by TAC on {YYYY-mm-dd}
+

@@ -1,5 +1,17 @@
 # Urban Computing TAC
 
+The role of the UCF Technical Advisory Committee (TAC) is to facilitate communication and collaboration among the Technical Projects. The TAC will be responsible for:
+
+* coordinating collaboration among Technical Projects, including development of an overall technical vision for the community;
+
+* making recommendations to the Budget Committee of resource priorities for Technical Projects;
+
+* electing annually a chairperson to preside over meetings, set the agenda for meetings, ensure meeting minutes are taken and who will also serve on the Governing Board as the TAC’s representative (the "TAC Representative");
+
+* creating, maintaining and amending project lifecycle procedures and processes, subject to the approval of the Governing Board; and
+
+* such other matters related to the technical role of the TAC as may be communicated to the TAC by the Governing Board.
+
 ## Communication
 
 A growing list of communication methods and tools to support the Urban Computing Foundation.
