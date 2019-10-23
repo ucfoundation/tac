@@ -27,11 +27,13 @@ The meeting minutes are [here](https://docs.google.com/document/d/1ScXoO3urg-iOB
 ## Members
 
 * Drew Dara-Abrams, principal, Interline Technologies
+* Javier De la Torre, Founder and CSO, CARTO
 * Oliver Fink, director HERE XYZ, HERE Technologies
 * Travis Gorkin, engineering manager of data visualization, Uber
 * Shan He, project leader of Kepler.gl, Uber
 * Randy Meech, CEO, StreetCred Labs
 * Michal Migurski, engineering manager of spatial computing, Facebook
 * Drishtie Patel, product manager of maps, Facebook
+* Prem Ramaswami, Head of Product, Sidewalk Labs
 * Paolo Santi, senior researcher, MIT
 * Max Sills, attorney, Google
