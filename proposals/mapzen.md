@@ -30,8 +30,8 @@ TBD
 Randy Meech
 
 ## Project License
-Apache License 2.0
-TBD
+* Apache License 2.0
+* TBD
 
 ## Source control (GitHub by default)
 Github https://github.com/mapzen/
@@ -65,8 +65,9 @@ TBD
 https://www.mapzen.com/
 
 ## links to social media accounts
-Twitter https://twitter.com/mapzen/
-Blog https://www.mapzen.com/blog/
+
+* Twitter https://twitter.com/mapzen/
+* Blog https://www.mapzen.com/blog/
 
 ## existing financial sponsorship
 TBD
