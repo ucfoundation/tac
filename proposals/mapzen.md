@@ -8,69 +8,116 @@ Request to move Mapzen from a standalone project with the Linux Foundation to th
 
 ## Project description (what it does, why it is valuable, origin and history)
 
-Mapzen is an open and accessible mapping platform. We're focused on the core components of geo platforms, including search, rendering, navigation, and data. We continue to take a radical approach to working on these components—we build them all entirely in the open.
+Mapzen is a collection of open-source projects focused on the core components of geo platforms, including search, rendering, navigation, and data. The goal is to provide high-quality, open alternatives for every major component of a mapping platform. Developed within Samsung from 2013-2017 and shut down in early 2018, Mapzen projects live on with the support of many companies and individual developers.
 
-We build these things and provided them as a commercial service until 2018, but these are tools that developers at any level can easily set up and use themselves, for free. We don’t want to lock users into proprietary platforms, relying on black boxes they can’t take apart. That’s why we work on individual components, modular building blocks that anyone can use for better maps. We build things so you can build things.
+Mapzen is comprised of several independent projects managed by different communities and teams but under one umbrella. The major projects are:
 
-Founded by map industry veterans in combination with architects, urban planners, movie makers, video game developers, artists and more, Mapzen empowers organizations of all sizes to reimagine what’s possible with cartography today. Based out of the Samsung Accelerator, we support the geo community through building tools and collaborating on open source mapping projects. We believe that a healthy mapping ecosystem is one that is diverse, sustainable, and accessible to all.
+- [Pelias](https://github.com/pelias/): distributed full-text geographic search engine
+- [Tangram](https://github.com/tangrams/): libraries for rendering 2D & 3D maps with WebGL/OpenGL ES & vector tiles
+- [Tilezen](https://github.com/tilezen/): libraries to generate vector tiles for global map display
+- [Transitland](https://github.com/transitland/): community edited data service aggregating transit networks across metropolitan and rural areas around the world
+- [Valhalla](https://github.com/valhalla/): global, multi-modal routing engine for turn-by-turn navigation services
+- [Who's on First](https://github.com/whosonfirst-data/): gazetteer or big list of places, each with a stable identifier and descriptive properties
 
-Maps are and for centuries have been incredibly powerful tools for shaping how we see the world and how we live in it. Open-source map technologies follow a long tradition of community-powered cartography. Strengthening that community is core to our success, and all of our work begins at that level. Mapzen starts where you are.
-
+All above projects are currently under active development both sponsored by companies and volunteer time by individuals.
 
 ## Statement on alignment with Foundation charter's mission
 
-The foundation charter's mission
+The foundation charter's mission: "The mission of the Project is to enable widespread adoption and help accelerate development of open source urban computing and a surrounding ecosystem."
 
-“The mission of the Project is to enable widespread adoption and help accelerate development of open source urban computing and a surrounding ecosystem.”
+As a open mapping platform focused around search, display, and navigation, there is considerable overlap with the mission of the Urban Computing Foundation.
 
 ## link to current Code of Conduct
-TBD
+
+Each project may have their own published code of conduct, here is a running list:
+
+- [Pelias](https://pelias.io/code_of_conduct.html)
+- others please link
 
 ## Sponsor from TAC, if identified (a sponsor helps mentor projects)
+
 Randy Meech
 
 ## Project License
-* Apache License 2.0
-* TBD
+
+The MIT license is the most common across software projects, for example:
+
+- Pelias: [MIT License](https://github.com/pelias/pelias/blob/master/LICENSE)
+- Valhalla: [MIT License](https://github.com/valhalla/valhalla/blob/master/COPYING)
+- Transitland: [MIT License](https://github.com/transitland/transitland-datastore/blob/master/LICENSE.txt)
+- Tilezen: [MIT Liiense](https://github.com/tilezen/vector-datasource/blob/master/docs/LICENSE.md)
+- Tangram: [MIT License](https://github.com/tangrams/tangram/blob/master/LICENSE)
+
+Data projects have different licenses:
+
+- [Who's on First](https://github.com/whosonfirst-data/whosonfirst-data-admin-us/blob/master/LICENSE.md)
 
 ## Source control (GitHub by default)
-Github https://github.com/mapzen/
+
+Each project has its own Github organization and multiple repositories:
+
+- [Pelias](https://github.com/pelias/)
+- [Tangram](https://github.com/tangrams/)
+- [Tilezen](https://github.com/tilezen/)
+- [Transitland](https://github.com/transitland/)
+- [Valhalla](https://github.com/valhalla/)
+- [Who's on First](https://github.com/whosonfirst-data/)
+
+Mapzen the org also has a [Github organization](https://github.com/mapzen/), which includes projects related to the website and older Android and iOS SDKs. The primary code related to the Mapzen projects is generally not in this org.
 
 ## Issue tracker (GitHub by default)
-Github
+
+- [Pelias](https://github.com/pelias/pelias/issues)
+- [Tangram](https://github.com/tangrams/tangram/issues)
+- [Tilezen](https://github.com/tilezen/vector-datasource/issues)
+- [Transitland](https://github.com/transitland/transitland/issues)
+- [Valhalla](https://github.com/valhalla/valhalla/issues)
+- [Who's on First](https://github.com/whosonfirst-data/whosonfirst-data/issues)
 
 ## External dependencies (including licenses)
-N/A
+
+Mapzen makes heavy use of other open data projects such as OpenStreetMap. [Read more in detail here.](https://www.mapzen.com/rights/)
 
 ## Release methodology and mechanics
-TBD 
+
+TBD
 
 ## Names of initial committers, if different from those submitting proposal
+
 Randy Meech
+Nathaniel Vaughn Kelso
 
 ## Briefly describe the project's leadership team and decision-making process
 
 The project is led by a steering committee of major contributors. Decisions are made by over 2/3 voting of the committee. Please refer to the governance document for details of council memberships.
 
 ## Link to any documented governance practices
+
 TBD
 
 ## Preferred maturity level (see stages below)
+
 TBD
 
 ## List of project's official communication channels (slack, irc, mailing lists)
-TBD
+
+- Twitter https://twitter.com/mapzen/
+- Blog https://www.mapzen.com/blog/
+- Private slack channel for former employees
 
 ## link to project's website
+
 https://www.mapzen.com/
 
 ## links to social media accounts
 
-* Twitter https://twitter.com/mapzen/
-* Blog https://www.mapzen.com/blog/
+- Twitter https://twitter.com/mapzen/
+- Blog https://www.mapzen.com/blog/
 
 ## existing financial sponsorship
-TBD
+
+Some hosting credits by Amazon (Nathaniel to weigh in?)
 
 ## Infrastructure needs or requests
+
 TBD
