@@ -1,6 +1,4 @@
-# Project Name
-
-**Mapzen**
+# Mapzen
 
 Request to move Mapzen from a standalone project with the Linux Foundation to the Urban Computing Foundation (under the Linux Foundation)
 
