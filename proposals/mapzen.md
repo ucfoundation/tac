@@ -96,7 +96,7 @@ The project is led by a steering committee of major contributors. Decisions are 
 
 ## Link to any documented governance practices
 
-TBD
+Technical Charter for Mapzen Project a Series of LF Projects, LLC (October 9, 2018)
 
 ## Preferred maturity level (see stages below)
 
