@@ -79,7 +79,11 @@ Mapzen makes heavy use of other open data projects such as OpenStreetMap. [Read 
 
 ## Release methodology and mechanics
 
-TBD
+- [Tangram](https://github.com/tangrams/tangram/blob/master/CONTRIBUTING.md)
+- [Tilezen](https://tilezen.readthedocs.io/en/v1.7.0/CONTRIBUTING/)
+- [Valhalla](https://valhalla.readthedocs.io/en/latest/releasing/)
+- [Transitland](https://github.com/transitland/transitland-datastore/blob/master/doc/development-practices.md)
+- [Who's on First](https://www.whosonfirst.org/docs/contributing/)
 
 ## Names of initial committers, if different from those submitting proposal
 
@@ -96,7 +100,7 @@ TBD
 
 ## Preferred maturity level (see stages below)
 
-TBD
+Impact Stage
 
 ## List of project's official communication channels (slack, irc, mailing lists)
 
