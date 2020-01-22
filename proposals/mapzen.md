@@ -30,7 +30,8 @@ As a open mapping platform focused around search, display, and navigation, there
 Each project may have their own published code of conduct, here is a running list:
 
 - [Pelias](https://pelias.io/code_of_conduct.html)
-- others please link
+
+Mapzen projects that do not specific their own code of conduct use [LF Projects LLC's code of conduct](https://lfprojects.org/policies/code-of-conduct/).
 
 ## Sponsor from TAC, if identified (a sponsor helps mentor projects)
 
