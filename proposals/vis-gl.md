@@ -23,7 +23,7 @@ vis.gl makes it easy to create applications that display and interact with dynam
 
 ## Link to current Code of Conduct
 
-- [deck.gl](https://github.com/uber/deck.gl/blob/x/governance/CODE_OF_CONDUCT.md)
+- [deck.gl](https://github.com/uber/deck.gl/blob/master/CODE_OF_CONDUCT.md)
 
 
 ## Sponsor from TAC
@@ -99,7 +99,7 @@ The TSC and core contributors will meet regularly to decide on the next roadmap 
 
 ## Link to any documented governance practices
 
-[deck.gl](https://github.com/uber/deck.gl/blob/x/governance/dev-docs/governance.md)
+[deck.gl](https://github.com/uber/deck.gl/blob/master/dev-docs/governance.md)
 
 
 ## Preferred maturity level
