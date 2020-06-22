@@ -22,7 +22,7 @@ A public google calendar is [here](https://calendar.google.com/calendar/embed?sr
 
 ### Meeting Minutes
 
-The meeting minutes are [here](https://docs.google.com/document/d/1ScXoO3urg-iOB26OSvz4VjMR2SNVLd-aA8yhgvvq8Bs/edit#).
+The meeting minutes are [here](https://github.com/ucfoundation/tac/tree/master/meetings).
 
 ## Members
 
