@@ -17,7 +17,7 @@ Flow maps are a useful tool for the analysis of urban mobility. Understanding ho
 
 Flowmap.blue is used by GIS analysts, transport and urban planners, mobility service providers and researchers for visualizing urban mobility data coming from various sources: census, surveys, simulation models, service usage statistics, sensors (e.g. mobile phones).
 
-Flowmap.blue focuses on the ease of use and readability of the visualization. The tool employs adaptive clustering, filtering and summarization and offers a unique scalable approach for representing spatial relationships at varying aggregation levels. The goal is to make flow mapping truly scalable and affordable for as many people as possible.
+Flowmap.blue focuses on the ease of use and the readability of the visualization. The tool employs adaptive clustering, filtering and summarization and offers a unique scalable approach for representing geographic movement at varying aggregation levels. The goal of the tool is to make flow mapping truly scalable and easy to use for as many people as possible.
 
 
 ## Link to current Code of Conduct
@@ -97,12 +97,12 @@ flowmap.gl:
 ## Release methodology and mechanics
 
 
-flowmap.gl:
+#### flowmap.gl
 
-We use semantic versioning. For a new release a new branch is created into which pull requests are merged. Then, it's merged into master.
+We use semantic versioning. For a new release a new branch is created into which pull requests are merged. Then, it's merged into master a the release is published.
 
 
-Flowmap.blue: 
+#### Flowmap.blue
 
 No release system at the moment. Changes and improvements are published to the website once a PR is merged to master.
 
@@ -132,7 +132,7 @@ Growth stage
 
 ## List of project's official communication channels
 
-- Flowmap.blue: [Spectrum Chat](https://spectrum.chat/flowmap-blue/)
+- [Spectrum Chat](https://spectrum.chat/flowmap-blue/)
 
 ## Link to project's website
 
