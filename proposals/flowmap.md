@@ -145,7 +145,9 @@ None
 
 ## Existing financial sponsorship
 
-Teralytics for flowmap.gl
+- Teralytics backs the development of flowmap.gl
+- Mapbox provides a discount coupon for the background map
+- Netlify provides an [Open Source plan](https://www.netlify.com/legal/open-source-policy/) for the Flowmap.blue website
 
 
 ## Infrastructure needs or requests
