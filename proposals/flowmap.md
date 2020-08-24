@@ -132,7 +132,7 @@ Growth stage
 
 ## List of project's official communication channels
 
-- [Spectrum Chat](https://spectrum.chat/flowmap-blue/)
+- Flowmap.blue: [Spectrum Chat](https://spectrum.chat/flowmap-blue/), [Newsletter](https://tinyletter.com/flowmap-blue/archive)
 
 ## Link to project's website
 
