@@ -16,10 +16,6 @@ The role of the UCF Technical Advisory Committee (TAC) is to facilitate communic
 
 The TAC chair is elected annually by the members of the TAC. The term of the TAC chair is aligned to the calendar year. Should the TAC chair step down before the end of their term, the TAC will vote in the next meeting to select a temporary chair to finish the current term.
 
-## TAC Members
-
-The prospective TAC Voting Member is recommended by other members of the TAC or the Governing Board, and is subject to a vote. Each project may appoint a member to serve as TAC voting member.
-
 ## Communication
 
 A growing list of communication methods and tools to support the Urban Computing Foundation.
