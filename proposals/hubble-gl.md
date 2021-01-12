@@ -21,8 +21,6 @@ Transferring to an open source foundation will bring in strong technical leaders
 
 ## Sponsor from TAC
 
-Ib Green
-
 Shan He
 
 ## Project license
