@@ -1,4 +1,4 @@
-# Contributing to the TAC [DRAFT]
+# Contributing to the TAC
 
 ## Contributing Projects to UCF
 
