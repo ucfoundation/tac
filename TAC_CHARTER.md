@@ -73,3 +73,4 @@ This charter (the “Charter”) sets forth the responsibilities and procedures 
 
 #### 8. Amendments ####
 - (a) This charter may be amended by a two-thirds vote of the entire TAC and is subject to approval by LF Projects.
+- (b) The prospective TAC Voting Member is recommended by other members of the TAC or the Governing Board, and is subject to a vote. Each project may appoint a representative to serve as TAC voting member.
